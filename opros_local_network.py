@@ -86,10 +86,10 @@ def write_list_ip(name_file, ip):
                 f.write(ip + " " + value.decode('cp1251') + '\n')
 
 
-write_list_ip(name_file='list_ip_abk.txt', ip='192.168.144.1')
-write_list_ip(name_file='list_ip_abk.txt', ip='192.168.145.1')
-write_list_ip(name_file='list_ip_abk.txt', ip='192.168.146.1')
-write_list_ip(name_file='list_ip_u.txt', ip='192.168.186.1')
-write_list_ip(name_file='list_ip_v.txt', ip='192.168.143.1')
-write_list_ip(name_file='list_ip_s.txt', ip='192.168.152.1')
-write_list_ip(name_file='list_ip_z.txt', ip='192.168.187.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_abk.txt', ip='192.168.144.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_abk.txt', ip='192.168.145.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_abk.txt', ip='192.168.146.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_u.txt', ip='192.168.186.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_v.txt', ip='192.168.143.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_s.txt', ip='192.168.152.1')
+write_list_ip(name_file='C:\Program Files\Git\dev\localNetwork\list_ip_z.txt', ip='192.168.187.1')
